@@ -3,7 +3,7 @@ A central repository of program resources, external resources - links, blogs, jo
 
 
 **Program Resources:** 🙌
-This site was built using [GitHub Pages](https://pages.github.com/).
+
 
 
 External Resources:
