@@ -1,1 +1,1 @@
-
+[Dive Into Agile Adoption: How to Prepare Your Team for Change](https://www.linkedin.com/pulse/dive-agile-adoption-how-prepare-your-team-change-mebne?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
