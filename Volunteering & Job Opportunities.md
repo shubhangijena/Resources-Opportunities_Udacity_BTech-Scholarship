@@ -1,6 +1,7 @@
 🐱‍👤**VOLUNTEERING OPPORTUNITIES LIST** 
 
 List of Communities for Seeking Mentors/Opportunities:
+
 TechLadies (https://lnkd.in/gjdKEqa): Tech Ladies is a community and job board that connects women with opportunities in the tech industry.
 
 Women in Data Science (WiDS) Worldwide (https://lnkd.in/ebyTKH3.) WiDS community provides opportunities for networking, mentorship, and skill development, contributing to the overall goal of promoting diversity and inclusion in data science.
@@ -21,6 +22,7 @@ Diversify Tech (https://lnkd.in/ePceBC4): Diversify Tech is a platform that conn
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯**JOB OPPORTUNITIES**
+
 Chatgpt prompt for job search https://nitter.net/teneikaask_you/status/1632063122457473026
 
 
